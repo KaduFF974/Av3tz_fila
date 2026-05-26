@@ -48,6 +48,7 @@
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox6 = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             this.SuspendLayout();
@@ -237,12 +238,23 @@
             this.textBox6.Size = new System.Drawing.Size(138, 20);
             this.textBox6.TabIndex = 29;
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(403, 170);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(49, 17);
+            this.label7.TabIndex = 30;
+            this.label7.Text = "Nome:";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.textBox6);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.textBox4);
@@ -295,6 +307,7 @@
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.Label label7;
     }
 }
 
