@@ -46,9 +46,9 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(313, 280);
+            this.button3.Location = new System.Drawing.Point(591, 243);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(154, 30);
+            this.button3.Size = new System.Drawing.Size(166, 52);
             this.button3.TabIndex = 10;
             this.button3.Text = "Produtos";
             this.button3.UseVisualStyleBackColor = true;
@@ -56,9 +56,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(313, 186);
+            this.button1.Location = new System.Drawing.Point(77, 243);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(154, 31);
+            this.button1.Size = new System.Drawing.Size(166, 53);
             this.button1.TabIndex = 9;
             this.button1.Text = "Fornecedores";
             this.button1.UseVisualStyleBackColor = true;
@@ -66,7 +66,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(703, 20);
+            this.button2.Location = new System.Drawing.Point(360, 254);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(86, 31);
             this.button2.TabIndex = 11;

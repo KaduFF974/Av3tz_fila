@@ -48,6 +48,10 @@
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox6 = new System.Windows.Forms.TextBox();
+            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.button7 = new System.Windows.Forms.Button();
+            this.button8 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             this.SuspendLayout();
@@ -138,7 +142,7 @@
             // button3
             // 
             this.button3.BackColor = System.Drawing.Color.White;
-            this.button3.Location = new System.Drawing.Point(39, 381);
+            this.button3.Location = new System.Drawing.Point(39, 367);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(86, 37);
             this.button3.TabIndex = 8;
@@ -164,6 +168,7 @@
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.Size = new System.Drawing.Size(481, 90);
             this.dataGridView2.TabIndex = 10;
+            this.dataGridView2.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView2_CellContentClick);
             // 
             // button4
             // 
@@ -178,7 +183,7 @@
             // button5
             // 
             this.button5.BackColor = System.Drawing.Color.White;
-            this.button5.Location = new System.Drawing.Point(163, 381);
+            this.button5.Location = new System.Drawing.Point(163, 367);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(86, 37);
             this.button5.TabIndex = 16;
@@ -239,12 +244,55 @@
             this.textBox6.Size = new System.Drawing.Size(138, 20);
             this.textBox6.TabIndex = 29;
             // 
+            // textBox7
+            // 
+            this.textBox7.Location = new System.Drawing.Point(127, 266);
+            this.textBox7.Name = "textBox7";
+            this.textBox7.Size = new System.Drawing.Size(138, 20);
+            this.textBox7.TabIndex = 31;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(14, 264);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(96, 17);
+            this.label7.TabIndex = 30;
+            this.label7.Text = "IdFornecedor:";
+            // 
+            // button7
+            // 
+            this.button7.BackColor = System.Drawing.Color.White;
+            this.button7.Location = new System.Drawing.Point(39, 410);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(86, 37);
+            this.button7.TabIndex = 32;
+            this.button7.Text = "Vincular produto";
+            this.button7.UseVisualStyleBackColor = false;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
+            // 
+            // button8
+            // 
+            this.button8.BackColor = System.Drawing.Color.White;
+            this.button8.Location = new System.Drawing.Point(163, 410);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(86, 37);
+            this.button8.TabIndex = 33;
+            this.button8.Text = "Ordenar";
+            this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.BackColor = System.Drawing.SystemColors.Highlight;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button8);
+            this.Controls.Add(this.button7);
+            this.Controls.Add(this.textBox7);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.textBox6);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.textBox4);
@@ -297,6 +345,10 @@
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.TextBox textBox7;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.Button button8;
     }
 }
 

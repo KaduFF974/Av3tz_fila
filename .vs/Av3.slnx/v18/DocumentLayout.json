@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Intel\\Av3C#\\Av3tz_fila\\",
+  "WorkspaceRootPath": "C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|c:\\intel\\av3c#\\av3tz_fila\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|c:\\intel\\av3c#\\av3tz_fila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|c:\\intel\\av3c#\\av3tz_fila\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|c:\\intel\\av3c#\\av3tz_fila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|c:\\intel\\av3c#\\av3tz_fila\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|c:\\users\\kaduff\\documents\\github\\av3tz_fila\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|c:\\users\\kaduff\\documents\\github\\av3tz_fila\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F81486DD-A239-4C7B-888E-A7B60616BA6C}|Av3.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,44 +34,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Intel\\Av3C#\\Av3tz_fila\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Intel\\Av3C#\\Av3tz_fila\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T17:25:01.188Z",
+              "WhenOpened": "2026-05-27T00:18:22.562Z",
               "IsPinned": true,
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Intel\\Av3C#\\Av3tz_fila\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Intel\\Av3C#\\Av3tz_fila\\Form2.cs [Design]",
+              "ToolTip": "C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\Form2.cs [Design]",
               "RelativeToolTip": "Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T17:47:06.501Z",
+              "WhenOpened": "2026-05-27T00:18:22.563Z",
               "IsPinned": true,
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Intel\\Av3C#\\Av3tz_fila\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
-              "ToolTip": "C:\\Intel\\Av3C#\\Av3tz_fila\\Form3.cs [Design]",
+              "ToolTip": "C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\Form3.cs [Design]",
               "RelativeToolTip": "Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T17:47:08.629Z",
+              "WhenOpened": "2026-05-27T00:18:22.564Z",
               "IsPinned": true,
               "EditorCaption": " [Design]"
             },
@@ -77,28 +81,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Intel\\Av3C#\\Av3tz_fila\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Intel\\Av3C#\\Av3tz_fila\\Form2.cs",
-              "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAMQAAAAAAAAAAAAqwNcAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T17:47:18.109Z",
+              "WhenOpened": "2026-05-27T01:23:47.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Intel\\Av3C#\\Av3tz_fila\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Intel\\Av3C#\\Av3tz_fila\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAUwK0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAHEBAAAAAAAAAAAQwJoBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T17:32:58.924Z",
+              "WhenOpened": "2026-05-27T00:18:22.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\KaduFF\\Documents\\GitHub\\Av3tz_fila\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T00:18:22.831Z",
               "EditorCaption": ""
             }
           ]
